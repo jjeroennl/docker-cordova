@@ -28,7 +28,3 @@ docker run -it beevelop/cordova bash
 ```Dockerfile
 FROM beevelop/cordova:latest
 ```
-
-----
-
-![One does not simply use latest](https://i.imgflip.com/1fgwxr.jpg)
